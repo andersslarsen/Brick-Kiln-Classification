@@ -1,5 +1,5 @@
 # Brick-Kiln-Classification
-Implementation of CNN for the purpose of classifying Brick Kilns in Bangladesh
+Implementation of a Convolutional Neural Network as a method for identifying Brick Kilns in Bangladesh
 
 Due to storage limitations, the online notebook environment Kaggle was used, for running and
 training the model, utilizing the CPU and GPU capacities available. However, due to spacial
